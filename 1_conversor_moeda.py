@@ -22,7 +22,7 @@ print(f"R$ {valor_reais} equivale a € {valor_euros}")
 print("-" * 20)
 
 # Código interativo:
-print("Opção para testar outros valores:")
+print("Opção para o professor testar outros valores:")
 valor_reais_novo = float(input("Digite o valor em reais: "))
 taxa_dolar_nova = float(input("Digite a taxa do dólar: "))
 taxa_euro_nova = float(input("Digite a taxa do euro: "))
